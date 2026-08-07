@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Hailu 👋
 
-<!--
-**hailuhak/hailuhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and aspiring full-stack developer
+interested in building practical and scalable software.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student
+- 💻 Interested in full-stack development
+- 🌱 Currently improving my skills in Next.js, PostgreSQL and Prisma
+- 🔧 Building projects to strengthen real-world software engineering skills
+- 🤝 Interested in collaborating on meaningful projects
+
+## Tech Stack
+
+### Frontend
+React
+Next.js
+TypeScript
+HTML
+CSS
+Tailwind CSS
+
+### Backend
+Node.js
+Express
+Next.js API
+PostgreSQL
+Prisma
+
+### Tools
+Git
+GitHub
+VS Code
+Docker
+
+
+## Featured Projects
+
+### Collaborative Document Editor
+Real-time collaborative document editing application.
+
+Tech:
+Next.js • PostgreSQL • Prisma • GitHub
+
+### Audit Training Management System
+Training management platform for managing courses,
+trainees, attendance and reporting.
+
+Tech:
+React • Firebase • TypeScript
+
+## Connect With Me
+
+LinkedIn
+Email
+Portfolio
