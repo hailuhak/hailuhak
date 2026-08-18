@@ -9,6 +9,7 @@
 Building practical, scalable, and meaningful software while continuously improving my skills.
 
 </div>
+
 ## 🤝 Connect With Me
 
 <div align="center">
