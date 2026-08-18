@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/your-username">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Building+Practical+Software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" />
 </a>
 
 ### Computer Science Student • Full-Stack Developer in Progress
@@ -9,6 +9,28 @@
 Building practical, scalable, and meaningful software while continuously improving my skills.
 
 </div>
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 
 ---
 
