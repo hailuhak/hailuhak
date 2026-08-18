@@ -30,7 +30,7 @@ Building practical, scalable, and meaningful software while continuously improvi
 
 ---
 
-<div align="center">
+<div >
 
 
 ---
