@@ -1,26 +1,41 @@
-<div align="center">
+<svg width="1260" height="230" viewBox="0 0 1260 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="120" cy="115" r="52"/>
+    </clipPath>
+  </defs>
 
-<table>
-  <tr>
-    <td width="110" align="center" valign="middle">
-      <img src="https://github.com/hailuhak.png" width="90" style="border-radius:50%" alt="Hailu" />
-    </td>
-    <td align="left" valign="middle">
-      <h2 style="margin-bottom:4px;">Hailu</h2>
-      <a href="https://github.com/hailuhak">GitHub.com/hailuhak</a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/github/followers/hailuhak?style=for-the-badge&color=1E90FF&logo=github&label=Followers" /><br/><br/>
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E91E8C&label=Repos&query=public_repos&url=https://api.github.com/users/hailuhak" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/github/stars/hailuhak?style=for-the-badge&color=F5A623&logo=github&label=Stars" /><br/><br/>
-      <img src="https://img.shields.io/github/commit-activity/y/hailuhak/hailuhak?style=for-the-badge&color=2ECC71&label=Commits" />
-    </td>
-  </tr>
-</table>
+  <!-- Card background -->
+  <rect x="0" y="0" width="1260" height="230" rx="30" fill="#2b332f"/>
 
-</div>
+  <!-- Avatar -->
+  <circle cx="120" cy="115" r="55" fill="#0d1b2a"/>
+  <image href="https://github.com/hailuhak.png" x="68" y="63" width="104" height="104" clip-path="url(#avatarClip)"/>
+
+  <!-- Name + subtitle -->
+  <text x="205" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#8FE9C4">Hailu</text>
+  <text x="205" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#c9d1d9">GitHub.com/hailuhak</text>
+
+  <!-- Pill: Followers -->
+  <rect x="580" y="85" width="120" height="56" rx="28" fill="#A9DEF9"/>
+  <text x="600" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">👥</text>
+  <text x="638" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0d1b2a">66</text>
+
+  <!-- Pill: Repos -->
+  <rect x="715" y="85" width="120" height="56" rx="28" fill="#F9C2D9"/>
+  <text x="735" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">📕</text>
+  <text x="773" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0d1b2a">51</text>
+
+  <!-- Pill: Stars -->
+  <rect x="850" y="85" width="120" height="56" rx="28" fill="#FBE1A3"/>
+  <text x="870" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">⭐</text>
+  <text x="908" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0d1b2a">35</text>
+
+  <!-- Pill: Contributions -->
+  <rect x="985" y="85" width="150" height="56" rx="28" fill="#B0E8C0"/>
+  <text x="1005" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">📤</text>
+  <text x="1043" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#0d1b2a">3453</text>
+</svg>
 
 ---
 
