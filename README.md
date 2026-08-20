@@ -1,30 +1,4 @@
-<div align="center">
-
-<table>
-  <tr>
-    <td width="110" align="center" valign="middle">
-      <img src="https://github.com/hailuhak.png" width="90" style="border-radius:50%" alt="Hailu" />
-    </td>
-    <td align="left" valign="middle">
-      <h2 style="margin-bottom:4px;">Hailu</h2>
-      <a href="https://github.com/hailuhak">GitHub.com/hailuhak</a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/github/followers/hailuhak?style=for-the-badge&color=1E90FF&logo=github&label=Followers" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E91E8C&label=Repos&query=public_repos&url=https://api.github.com/users/hailuhak" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/github/stars/hailuhak?style=for-the-badge&color=F5A623&logo=github&label=Stars" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/github/commit-activity/y/hailuhak/hailuhak?style=for-the-badge&color=2ECC71&label=Commits" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<div align="center"> <a href="https://github.com/your-username">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" /></a> ### Computer Science Student • Full-Stack Developer in Progress Building practical, scalable, and meaningful software while continuously improving my skills. </div>
 
 ---
 
