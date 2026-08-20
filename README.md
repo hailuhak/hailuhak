@@ -63,15 +63,6 @@
 
 ---
 
-## 📊 Statistics
-
-<div align="center">
-
-| My GitHub Statistics | Most Used Languages | Streaks |
-|:---:|:---:|:---:|
-| [![Hailu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)](https://github.com/your-username) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true)](https://github.com/your-username) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true)](https://github.com/your-username) |
-
-</div>
 
 ---
 
