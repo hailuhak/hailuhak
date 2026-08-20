@@ -1,5 +1,21 @@
 <div align="center">
 
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://github.com/your-username.png" width="90" style="border-radius:50%" />
+    </td>
+    <td>
+      <h2>Hailu</h2>
+      <a href="https://github.com/your-username">GitHub.com/your-username</a><br/><br/>
+      <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=1E90FF&logo=github&label=Followers" />
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E91E8C&label=Repos&query=public_repos&url=https://api.github.com/users/your-username" />
+      <img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=F5A623&logo=star" />
+      <img src="https://img.shields.io/github/commit-activity/y/your-username/your-username?style=for-the-badge&color=2ECC71&label=Commits" />
+    </td>
+  </tr>
+</table>
+
 <a href="https://github.com/your-username">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" />
 </a>
@@ -8,7 +24,17 @@
 
 Building practical, scalable, and meaningful software while continuously improving my skills.
 
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue)
+
 </div>
+
+---
+
+> 💬 I'm a self-taught developer, passionate about **backend development, databases, and DevOps**.
+
+---
 
 ## 🤝 Connect With Me
 
@@ -30,11 +56,6 @@ Building practical, scalable, and meaningful software while continuously improvi
 
 ---
 
-<div >
-
-
----
-
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science student
@@ -46,64 +67,55 @@ Building practical, scalable, and meaningful software while continuously improvi
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Statistics
 
-### 🎨 Frontend Development
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+| My GitHub Statistics | Most Used Languages | Streaks |
+|:---:|:---:|:---:|
+| [![Hailu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)](https://github.com/your-username) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true)](https://github.com/your-username) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true)](https://github.com/your-username) |
 
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🧰 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Skills
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Frontend** | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
+| **Databases** | ![Prisma](https://skillicons.dev/icons?i=prisma) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| **Design & UI** | ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=ps) |
+| **DevOps & Hosting** | ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) |
+| **Tools & Workflow** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) |
+
+</div>
+
+---
+
+## 🌟 Featured Projects
 
 ### 📝 Collaborative Document Editor
-
 A real-time collaborative document editing application designed to allow multiple users to work together on documents.
 
-**Tech Stack:**
-
-`Next.js` • `PostgreSQL` • `Prisma` • `TypeScript`
+**Tech Stack:** `Next.js` • `PostgreSQL` • `Prisma` • `TypeScript`
 
 ---
 
 ### 🎓 Audit Training Management System
-
 A training management platform designed to manage courses, trainees, attendance, training sessions, and reporting.
 
-**Tech Stack:**
-
-`React` • `Firebase` • `TypeScript`
+**Tech Stack:** `React` • `Firebase` • `TypeScript`
 
 ---
 
 ### 📋 TaskFlow
-
 A project and task management backend focused on authentication, workspaces, projects, tasks, permissions, and RESTful APIs.
 
-**Tech Stack:**
-
-`Node.js` • `Express.js` • `PostgreSQL` • `Prisma`
+**Tech Stack:** `Node.js` • `Express.js` • `PostgreSQL` • `Prisma`
 
 ---
 
@@ -135,26 +147,6 @@ Docker & Deployment
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Learn. Build. Improve. Repeat."
@@ -162,4 +154,3 @@ Docker & Deployment
 ⭐ Thanks for visiting my profile!
 
 </div>
-
