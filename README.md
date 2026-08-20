@@ -1,58 +1,103 @@
 <div align="center">
 
 <table>
-  <tr>
-    <td width="120">
-      <img 
-        src="https://github.com/hailuhak.png" 
-        width="90" 
-        style="border-radius:50%" 
-        alt="Hailu Profile Picture"
-      />
-    </td>
+<tr>
+<td width="120" align="center">
 
-    <td>
-      <h2>Hailu</h2>
+<img src="https://github.com/hailuhak.png" width="90" alt="Hailu" />
 
-      <a href="https://github.com/hailuhak">
-        GitHub.com/hailuhak
-      </a>
+</td>
 
-      <br/><br/>
+<td>
 
-      <img 
-        src="https://img.shields.io/github/followers/hailuhak?style=for-the-badge&color=1E90FF&logo=github&label=Followers" 
-        alt="GitHub Followers"
-      />
-
-      <img 
-        src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E91E8C&label=Repos&query=public_repos&url=https://api.github.com/users/hailuhak" 
-        alt="Public Repositories"
-      />
-
-      <img 
-        src="https://img.shields.io/github/stars/hailuhak?style=for-the-badge&color=F5A623&logo=star" 
-        alt="GitHub Stars"
-      />
-
-      <img 
-        src="https://img.shields.io/github/commit-activity/y/hailuhak/hailuhak?style=for-the-badge&color=2ECC71&label=Commits" 
-        alt="GitHub Commits"
-      />
-
-    </td>
-  </tr>
-</table>
-
+<h2>Hailu</h2>
 
 <a href="https://github.com/hailuhak">
-
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" 
-    alt="Typing SVG"
-  />
-
+GitHub.com/hailuhak
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/hailuhak?style=for-the-badge&color=1E90FF&logo=github&label=Followers" alt="Followers">
+
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E91E8C&label=Repos&query=public_repos&url=https://api.github.com/users/hailuhak" alt="Repositories">
+
+<img src="https://img.shields.io/github/stars/hailuhak?style=for-the-badge&color=F5A623&logo=github&label=Stars" alt="Stars">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/hailuhak">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer+in+Progress;Cybersecurity+Learner" alt="Typing SVG">
+</a>
+
+<br>
+
+### 💻 Computer Science Student • Full-Stack Developer in Progress
+
+Building practical, scalable, and meaningful software while continuously improving my skills.
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hailuhak&style=for-the-badge&color=blue)
+
+<br><br>
+
+### 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Learning Full-Stack Development
+- 🔐 Interested in Cybersecurity
+- 🐧 Learning Linux
+- 🌐 Building REST APIs
+- 🗄️ Working with PostgreSQL and Prisma
+- ⚡ Learning Node.js and Express
+- 🚀 Always learning and building
+
+<br>
+
+### 🛠️ Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,prisma,git,github,linux,html,css,tailwind" />
+</p>
+
+<br>
+
+### 📌 Featured Projects
+
+<a href="https://github.com/hailuhak">
+<img src="https://github-readme-stats.vercel.app/api?username=hailuhak&show_icons=true&hide_border=true&rank_icon=github" alt="Hailu's GitHub Stats">
+</a>
+
+<br><br>
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hailuhak&hide_border=true" alt="GitHub Streak">
+
+<br><br>
+
+<a href="https://github.com/hailuhak">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hailuhak&hide_border=true" alt="GitHub Activity Graph">
+</a>
+
+<br><br>
+
+### 📫 Connect With Me
+
+<a href="https://github.com/hailuhak">
+<img src="https://img.shields.io/badge/GitHub-hailuhak-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<br><br>
+
+⭐ Thanks for visiting my profile!
+
+</div>
 
 
 ### Computer Science Student • Full-Stack Developer in Progress
