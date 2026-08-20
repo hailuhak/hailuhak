@@ -2,28 +2,19 @@
 
 <table>
   <tr>
-    <td width="120" align="center">
-      <img src="https://github.com/hailuhak.png" width="90" alt="Hailu" />
+    <td width="110" align="center" valign="middle">
+      <img src="https://github.com/hailuhak.png" width="90" style="border-radius:50%" alt="Hailu" />
     </td>
-
-    <td align="left">
-      <h2>Hailu</h2>
+    <td align="left" valign="middle">
+      <h2 style="margin-bottom:4px;">Hailu</h2>
       <a href="https://github.com/hailuhak">GitHub.com/hailuhak</a>
     </td>
-
-    <td>
-      <img src="https://img.shields.io/github/followers/hailuhak?style=for-the-badge&color=1E90FF&logo=github&label=Followers" />
-    </td>
-
-    <td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/github/followers/hailuhak?style=for-the-badge&color=1E90FF&logo=github&label=Followers" /><br/><br/>
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E91E8C&label=Repos&query=public_repos&url=https://api.github.com/users/hailuhak" />
     </td>
-
-    <td>
-      <img src="https://img.shields.io/github/stars/hailuhak?style=for-the-badge&color=F5A623&logo=github&label=Stars" />
-    </td>
-
-    <td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/github/stars/hailuhak?style=for-the-badge&color=F5A623&logo=github&label=Stars" /><br/><br/>
       <img src="https://img.shields.io/github/commit-activity/y/hailuhak/hailuhak?style=for-the-badge&color=2ECC71&label=Commits" />
     </td>
   </tr>
