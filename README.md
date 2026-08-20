@@ -1,10 +1,18 @@
 <div align="center">
-  <a href="https://github.com/your-username">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" /></a> ### Computer Science Student • Full-Stack Developer in Progress Building practical, scalable, and meaningful software while continuously improving my skills.
+
+<a href="https://github.com/hailuhak">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" />
+</a>
+
+### Computer Science Student • Full-Stack Developer in Progress
+
+Building practical, scalable, and meaningful software while continuously improving my skills.
+
 </div>
 
 ---
 
-> 💬 I'm a **full stack developer ,video editor and graphics designer**.
+> 💬 I'm a **full-stack developer, video editor, and graphics designer**.
 
 ---
 
