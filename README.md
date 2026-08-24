@@ -2,7 +2,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hailuhak&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/hailuhak)
 
-<br>
 
 <div align="center">
 
