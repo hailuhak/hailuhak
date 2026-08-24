@@ -11,19 +11,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Hailu;Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
 </div>
 <hr style="height:0.1px;border:0;background:#0000;">
-## 👨‍💻 About Me
-
-Hi, I'm **Hailu Kassa** — a Computer Science student and aspiring **Full-Stack Developer** passionate about building practical, scalable, and user-focused software.
-
-* 🎓 Computer Science Student
-* 💻 Full-Stack Developer in Progress
-* 🚀 Building real-world web applications and backend systems
-* 🌱 Currently focused on **Next.js, PostgreSQL, Prisma, and backend development**
-* 🔐 Exploring **Cybersecurity, Linux, APIs, and Software Architecture**
-* 🧠 Interested in writing clean, maintainable, and scalable code
-* 🤝 Open to collaboration, learning, and meaningful software projects
-
----
 
 ## 🌐 Let's Connect
 
@@ -51,6 +38,21 @@ Hi, I'm **Hailu Kassa** — a Computer Science student and aspiring **Full-Stack
 
 
 ---
+## 👨‍💻 About Me
+
+Hi, I'm **Hailu Kassa** — a Computer Science student and aspiring **Full-Stack Developer** passionate about building practical, scalable, and user-focused software.
+
+* 🎓 Computer Science Student
+* 💻 Full-Stack Developer in Progress
+* 🚀 Building real-world web applications and backend systems
+* 🌱 Currently focused on **Next.js, PostgreSQL, Prisma, and backend development**
+* 🔐 Exploring **Cybersecurity, Linux, APIs, and Software Architecture**
+* 🧠 Interested in writing clean, maintainable, and scalable code
+* 🤝 Open to collaboration, learning, and meaningful software projects
+
+---
+
+
 
 
 ## 🚀 Skills
