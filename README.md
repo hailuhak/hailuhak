@@ -1,8 +1,9 @@
-<div align="center"> 
- 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fitsumhelina&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/fitsumhelina)
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hailuhak&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/hailuhak)
+
 </div>
-<h1 align="center">Hi!i'm Hailuh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">WELCOM <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <img src="https://komarev.com/ghpvc/?username=Hailuhak&label=Profile%20views&color=0e75b6&style=flat" />
 <br>
