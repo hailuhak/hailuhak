@@ -2,6 +2,10 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hailuhak&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/hailuhak)
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hailuhak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
 
 
