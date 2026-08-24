@@ -1,36 +1,22 @@
 <div align="center">
 
-<a href="https://github.com/hailuhak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" />
-</a>
+# Hi, I'm Hailu Kassa 👋
 
-### Computer Science Student • Full-Stack Developer in Progress
+### Computer Science Student · Full-Stack Developer · Cybersecurity Learner
 
-Building practical, scalable, and meaningful software while continuously improving my skills.
+Building practical web applications, exploring backend engineering, and continuously improving my software development skills.
 
-</div>
-
----
-
-> 💬 I'm a **full-stack developer, video editor, and graphics designer**.
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/hailuhak">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hailu-kassa-87182a377/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hailukassa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -38,90 +24,99 @@ Building practical, scalable, and meaningful software while continuously improvi
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science student
-* 💻 Aspiring full-stack developer
-* 🌱 Currently improving my skills in **Next.js, PostgreSQL, Prisma, and backend development**
-* 🔧 Building real-world projects to strengthen my software engineering skills
-* 🧠 Interested in software architecture, APIs, databases, and cybersecurity
-* 🤝 Open to collaborating on meaningful and innovative projects
+I'm **Hailu Kassa**, a Computer Science student and aspiring full-stack developer interested in building useful, reliable, and user-focused software.
+
+- 🎓 Computer Science student at **Debre Berhan University**
+- 💻 Focused on **full-stack web development**
+- ⚙️ Interested in **backend development, APIs, databases, and system design**
+- 🔐 Currently developing my knowledge of **cybersecurity and Linux**
+- 🎨 Also interested in **graphic design and video editing**
+- 🚀 Learning through real-world projects and hands-on development
+- 🤝 Open to collaboration, learning, and meaningful projects
 
 ---
 
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" />
+</p>
+
+### Development Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,firebase" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
 
 ---
 
-## 🚀 Skills
+## 🚀 Featured Projects
 
-<div align="center">
+### 🤝 Collaborative Document Editor
 
-| Category | Technologies |
-|:---|:---|
-| **Frontend** | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
-| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
-| **Databases** | ![Prisma](https://skillicons.dev/icons?i=prisma) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
-| **Design & UI** | ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=ps) |
-| **DevOps & Hosting** | ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) |
-| **Tools & Workflow** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) |
+A real-time collaborative document editing platform designed to allow multiple users to work together on documents.
 
-</div>
+**Tech Stack**
 
----
-
-## 🌟 Featured Projects
-
-### 📝 Collaborative Document Editor
-A real-time collaborative document editing application designed to allow multiple users to work together on documents.
-
-**Tech Stack:** `Next.js` • `PostgreSQL` • `Prisma` • `TypeScript`
+`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma`
 
 ---
 
 ### 🎓 Audit Training Management System
+
 A training management platform designed to manage courses, trainees, attendance, training sessions, and reporting.
 
-**Tech Stack:** `React` • `Firebase` • `TypeScript`
+**Tech Stack**
+
+`React` · `TypeScript` · `Firebase`
 
 ---
 
 ### 📋 TaskFlow
-A project and task management backend focused on authentication, workspaces, projects, tasks, permissions, and RESTful APIs.
 
-**Tech Stack:** `Node.js` • `Express.js` • `PostgreSQL` • `Prisma`
+A full-stack task and project management system focused on workspaces, projects, tasks, authentication, permissions, and RESTful APIs.
+
+**Tech Stack**
+
+`Node.js` · `Express.js` · `PostgreSQL` · `Prisma`
+
+---
+
+### 🎨 Creative Design & Media
+
+A collection of graphic design, social media content, poster designs, and video editing projects.
+
+**Focus**
+
+`Graphic Design` · `Social Media Design` · `Video Editing` · `Branding`
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Next.js
-   ↓
-Advanced TypeScript
-   ↓
+Full-Stack Development
+        ↓
 Backend Architecture
-   ↓
+        ↓
 PostgreSQL & Prisma
-   ↓
+        ↓
 REST APIs & Authentication
-   ↓
+        ↓
 Docker & Deployment
-```
-
----
-
-## 🎯 Goals
-
-* 🚀 Become a professional full-stack developer
-* 🏗️ Build production-quality applications
-* 🔐 Develop strong cybersecurity skills
-* 🧠 Improve backend and system-design knowledge
-* 🌍 Contribute to meaningful open-source projects
-
----
-
-<div align="center">
-
-### 💡 "Learn. Build. Improve. Repeat."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+        ↓
+Linux & Cybersecurity
