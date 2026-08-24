@@ -3,11 +3,11 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hailuhak&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/hailuhak)
 
 </div>
-<h1 align="center">WELCOM <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20Hailu%20Kassa%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
 <img src="https://komarev.com/ghpvc/?username=Hailuhak&label=Profile%20views&color=0e75b6&style=flat" />
-<br>
-  
 </div>
 
 ---
