@@ -11,34 +11,44 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Hailu;Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
 </div>
 <hr style="height:0.1px;border:0;background:#0000;">
-## 🤝 Connect With Me
+## 👨‍💻 About Me
+
+Hi, I'm **Hailu Kassa** — a Computer Science student and aspiring **Full-Stack Developer** passionate about building practical, scalable, and user-focused software.
+
+* 🎓 Computer Science Student
+* 💻 Full-Stack Developer in Progress
+* 🚀 Building real-world web applications and backend systems
+* 🌱 Currently focused on **Next.js, PostgreSQL, Prisma, and backend development**
+* 🔐 Exploring **Cybersecurity, Linux, APIs, and Software Architecture**
+* 🧠 Interested in writing clean, maintainable, and scalable code
+* 🤝 Open to collaboration, learning, and meaningful software projects
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
+&nbsp;
 <a href="mailto:hailuhak344@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+&nbsp;
 <a href="https://web.facebook.com/profile.php?id=61583020974495">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
 </div>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+### 💡 Build • Learn • Create • Improve
 
-* 🎓 Computer Science student
-* 💻 Aspiring full-stack developer
-* 🌱 Currently improving my skills in **Next.js, PostgreSQL, Prisma, and backend development**
-* 🔧 Building real-world projects to strengthen my software engineering skills
-* 🧠 Interested in software architecture, APIs, databases, and cybersecurity
-* 🤝 Open to collaborating on meaningful and innovative projects
+</div>
+
 
 ---
 
