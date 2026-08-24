@@ -5,12 +5,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
 
 <br/>
+<hr/>
 
 <p>
   <b>Building practical software, learning continuously, and turning ideas into real-world applications.</b>
 </p>
 
-</div>in the left of hi  i want to add small profile photo  how give me  and  wher i add the image ?
+</div>
 
 ---
 
