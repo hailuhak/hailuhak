@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=hailuhak&label=PROFILE%20VIEWS&color=00c6ff&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=hailuhak&label=%F0%9F%91%80%20PROFILE%20VIEWS&color=00c6ff&style=for-the-badge" alt="Profile views" />
 
 </div>
 
