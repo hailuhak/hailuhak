@@ -2,14 +2,11 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hailuhak&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/hailuhak)
 
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=hailuhak&label=%F0%9F%91%80%20PROFILE%20VIEWS&color=00c6ff&style=for-the-badge" alt="Profile views" />
 
 </div>
-
-</div>
-
+<hr/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Hailu;Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
 </div>
 
