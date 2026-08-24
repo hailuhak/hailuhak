@@ -7,7 +7,7 @@
 <div>
 
   <img 
-    src="./assets/profile.png"
+    src="./assets/profile.jpg"
     width="65"
     height="65"
     alt="Hailu Kassa"
