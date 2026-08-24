@@ -4,9 +4,7 @@
 </div>
 <h1 align="center">Ola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Hailuhak&label=Profile%20views&color=0e75b6&style=flat" />
 <br>
   
 </div>
