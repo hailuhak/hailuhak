@@ -1,12 +1,14 @@
 <div align="center">
 
-<a href="https://github.com/hailuhak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20Hailu%20Kassa%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### Computer Science Student • Full-Stack Developer in Progress
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
 
-Building practical, scalable, and meaningful software while continuously improving my skills.
+<br/>
+
+<p>
+  <b>Building practical software, learning continuously, and turning ideas into real-world applications.</b>
+</p>
 
 </div>
 
