@@ -59,6 +59,11 @@
 </div> 
  
 --- 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hailuhak&theme=tokyo-night&hide_border=true" />
+
+</div>
  
 ## 🌟 Featured Projects 
  
