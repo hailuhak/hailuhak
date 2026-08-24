@@ -10,7 +10,7 @@
 
 ---
 
-> <p>💬 I'm a **full-stack developer, video editor, and graphics designer**.<p/>
+> 💬 I'm a **full-stack developer, video editor, and graphics designer**.
 
 ---
 
