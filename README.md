@@ -7,31 +7,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" />
 </p>
-
-> I'm a Self-tought Developer, who is Passionate  about Back-end Development ,Database and DevOps !
-
 <br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<br>
-
-<div align="center">
- 
-# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
-
-| My GitHub Statistics | Most Used Languages | Streaks |
-| --- | --- | --- |
-| ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fitsumhelina&theme=dark)
-
-</div>
-
-
-
-<div align="center">
   
-
-
 </div>
 
 ---
