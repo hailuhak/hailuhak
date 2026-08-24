@@ -42,8 +42,6 @@
 ---
 
 
----
-
 ## 🚀 Skills
 
 <div align="center">
