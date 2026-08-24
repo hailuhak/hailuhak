@@ -127,19 +127,58 @@ A project and task management backend focused on **authentication, workspaces, p
 
 <div align="center">
 
-**⚡ Next.js**
-↓
-**🔷 Advanced TypeScript**
-↓
-**🏗️ Backend Architecture**
-↓
-**🐘 PostgreSQL & Prisma**
-↓
-**🔌 REST APIs & Authentication**
-↓
-**🐳 Docker & Deployment**
+<table>
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
+  <br />
+  <b>Next.js</b>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <br />
+  <b>Advanced TypeScript</b>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Backend Architecture" />
+  <br />
+  <b>Backend Architecture</b>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  <br />
+  <b>PostgreSQL & Prisma</b>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="REST APIs" />
+  <br />
+  <b>REST APIs & Auth</b>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <br />
+  <b>Docker & Deployment</b>
+</td>
+</tr>
+</table>
 
 </div>
+
 
  
 --- 
