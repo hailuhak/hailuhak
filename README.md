@@ -1,10 +1,36 @@
+<div align="center"> 
+ 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fitsumhelina&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/fitsumhelina)
+</div>
+<h1 align="center">Ola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fitsumhelina&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhelina" />
+</p>
+
+> I'm a Self-tought Developer, who is Passionate  about Back-end Development ,Database and DevOps !
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<br>
+
 <div align="center">
+ 
+# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Hi%F0%9F%91%8B%20I'm%20Hailu%20Kassa&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+| My GitHub Statistics | Most Used Languages | Streaks |
+| --- | --- | --- |
+| ![Fitsum Git Status](https://github-readme-stats.vercel.app/api?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumhelina&show_icons=true&theme=dark&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fitsumhelina&theme=dark)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
+</div>
 
-<br/>
+
+
+<div align="center">
+  
+
 
 </div>
 
