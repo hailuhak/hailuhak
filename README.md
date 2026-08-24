@@ -1,14 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20Hailu%20Kassa%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<a href="https://github.com/hailuhak">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hailu+%F0%9F%91%8B;" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
+### Computer Science Student • Full-Stack Developer in Progress
 
-<br/>
+Building practical, scalable, and meaningful software while continuously improving my skills.
 
-<p>
-  <b>Building practical software, learning continuously, and turning ideas into real-world applications.</b>
-</p>
+</div>
+
+---
+
+> 💬 I'm a **full-stack developer, video editor, and graphics designer**.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -16,125 +38,90 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🚀 Who I Am
-
-I'm **Hailu Kassa**, a Computer Science student and aspiring full-stack developer passionate about building practical and meaningful software.
-
-- 🎓 Computer Science student at **Debre Berhan University**
-- 💻 Focused on **full-stack web development**
-- ⚛️ Working with **React, Next.js, JavaScript & TypeScript**
-- 🛠️ Building backend systems with **Node.js, Express & REST APIs**
-- 🗄️ Working with **PostgreSQL & Prisma**
-- 🎨 Also interested in **graphic design and video editing**
-- 🔐 Currently developing my knowledge of **cybersecurity and Linux**
-- 🧠 Interested in software architecture, APIs, databases and secure systems
-- 🚀 Learning by building real-world projects
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+* 🎓 Computer Science student
+* 💻 Aspiring full-stack developer
+* 🌱 Currently improving my skills in **Next.js, PostgreSQL, Prisma, and backend development**
+* 🔧 Building real-world projects to strengthen my software engineering skills
+* 🧠 Interested in software architecture, APIs, databases, and cybersecurity
+* 🤝 Open to collaborating on meaningful and innovative projects
 
 ---
 
-## 🧭 What I'm Focused On
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Learning+Backend+Architecture;Working+with+PostgreSQL+%26+Prisma;Exploring+Cybersecurity+%26+Linux;Improving+Every+Day" alt="Focus"/>
-
-</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,firebase,git,github,docker,linux,vscode,figma,ps&perline=10"/>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 Frontend
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Database
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎨 Design & Creative
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 Tools & Environment
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🔄 How I Build
-
-<div align="center">
-
-```mermaid
-flowchart LR
-
-A["💡 Idea"] --> B["🎨 Design"]
-B --> C["⚛️ Frontend"]
-C --> D["⚙️ Backend"]
-D --> E["🗄️ Database"]
-E --> F["🔐 Security"]
-F --> G["🚀 Deploy"]
-G --> H["🔄 Improve"]
+| Category | Technologies |
+|:---|:---|
+| **Frontend** | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) |
+| **Databases** | ![Prisma](https://skillicons.dev/icons?i=prisma) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
+| **Design & UI** | ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=ps) |
+| **DevOps & Hosting** | ![Docker](https://skillicons.dev/icons?i=docker) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) |
+| **Tools & Workflow** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) | 
+ 
+</div> 
+ 
+--- 
+ 
+## 🌟 Featured Projects 
+ 
+### 📝 Collaborative Document Editor 
+A real-time collaborative document editing application designed to allow multiple users to work together on documents. 
+ 
+**Tech Stack:** `Next.js` • `PostgreSQL` • `Prisma` • `TypeScript` 
+ 
+--- 
+ 
+### 🎓 Audit Training Management System 
+A training management platform designed to manage courses, trainees, attendance, training sessions, and reporting. 
+ 
+**Tech Stack:** `React` • `Firebase` • `TypeScript` 
+ 
+--- 
+ 
+### 📋 TaskFlow 
+A project and task management backend focused on authentication, workspaces, projects, tasks, permissions, and RESTful APIs. 
+ 
+**Tech Stack:** `Node.js` • `Express.js` • `PostgreSQL` • `Prisma` 
+ 
+--- 
+ 
+## 📚 Currently Learning 
+ 
+```text 
+Next.js 
+   ↓ 
+Advanced TypeScript 
+   ↓ 
+Backend Architecture 
+   ↓ 
+PostgreSQL & Prisma 
+   ↓ 
+REST APIs & Authentication 
+   ↓ 
+Docker & Deployment 
+``` 
+ 
+--- 
+ 
+## 🎯 Goals 
+ 
+* 🚀 Become a professional full-stack developer 
+* 🏗️ Build production-quality applications 
+* 🔐 Develop strong cybersecurity skills 
+* 🧠 Improve backend and system-design knowledge 
+* 🌍 Contribute to meaningful open-source projects 
+ 
+--- 
+ 
+<div align="center"> 
+ 
+### 💡 "Learn. Build. Improve. Repeat." 
+ 
+⭐ Thanks for visiting my profile! 
+ 
+</div>i want to chang my github redme look like the above best and professiona 
