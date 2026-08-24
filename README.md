@@ -2,27 +2,34 @@
 
 <table>
 <tr>
-<td width="100" align="center">
+<td align="center">
 
-<img 
-  src="./assets/profile.jpg" 
-  width="85" 
-  height="85" 
-  style="border-radius: 50%;"
-  alt="Hailu Kassa"
-/>
+<div>
 
-</td>
+  <img 
+    src="./assets/profile.png"
+    width="65"
+    height="65"
+    alt="Hailu Kassa"
+    style="border-radius:50%; object-fit:cover; vertical-align:middle; margin-right:8px;"
+  />
 
-<td align="left">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=150&section=header&text=Hi%20I'm%20Hailu%20Kassa%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50"
+    alt="Hi I'm Hailu Kassa"
+    style="vertical-align:middle;"
+  />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=160&section=header&text=Hi%20I'm%20Hailu%20Kassa%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+</div>
 
 </td>
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux" alt="Typing SVG"/>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Software+%26+Web+Developer;Graphic+Designer+%26+Video+Editor;Learning+Cybersecurity+%26+Linux"
+  alt="Typing SVG"
+/>
 
 <br/>
 
