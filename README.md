@@ -77,44 +77,70 @@ Hi, I'm **Hailu Kassa** — a Computer Science student and aspiring **Full-Stack
 
 </div>
  
-## 🌟 Featured Projects 
- 
-### 📝 Collaborative Document Editor 
-A real-time collaborative document editing application designed to allow multiple users to work together on documents. 
- 
-**Tech Stack:** `Next.js` • `PostgreSQL` • `Prisma` • `TypeScript` 
- 
---- 
- 
-### 🎓 Audit Training Management System 
-A training management platform designed to manage courses, trainees, attendance, training sessions, and reporting. 
- 
-**Tech Stack:** `React` • `Firebase` • `TypeScript` 
- 
---- 
- 
-### 📋 TaskFlow 
-A project and task management backend focused on authentication, workspaces, projects, tasks, permissions, and RESTful APIs. 
- 
-**Tech Stack:** `Node.js` • `Express.js` • `PostgreSQL` • `Prisma` 
- 
---- 
- 
-## 📚 Currently Learning 
- 
-```text 
-Next.js 
-   ↓ 
-Advanced TypeScript 
-   ↓ 
-Backend Architecture 
-   ↓ 
-PostgreSQL & Prisma 
-   ↓ 
-REST APIs & Authentication 
-   ↓ 
-Docker & Deployment 
-``` 
+## 🚀 Featured Projects
+
+### 📝 Collaborative Document Editor
+
+A real-time collaborative document platform that enables multiple users to **create, edit, and work together on documents seamlessly**.
+
+**🛠️ Technology Stack**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
+</div>
+
+---
+
+### 🎓 Audit Training Management System
+
+A training management platform designed to streamline **courses, trainees, attendance, training sessions, and reporting**.
+
+**🛠️ Technology Stack**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+</div>
+
+---
+
+### 📋 TaskFlow
+
+A project and task management backend focused on **authentication, workspaces, projects, tasks, permissions, and RESTful APIs**.
+
+**🛠️ Technology Stack**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+**⚡ Next.js**
+↓
+**🔷 Advanced TypeScript**
+↓
+**🏗️ Backend Architecture**
+↓
+**🐘 PostgreSQL & Prisma**
+↓
+**🔌 REST APIs & Authentication**
+↓
+**🐳 Docker & Deployment**
+
+</div>
+
  
 --- 
  
@@ -133,5 +159,4 @@ Docker & Deployment
 ### 💡 "Learn. Build. Improve. Repeat." 
  
 ⭐ Thanks for visiting my profile! 
- 
-</div>i want to chang my github redme look like the above best and professiona 
+
